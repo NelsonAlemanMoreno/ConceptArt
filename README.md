@@ -7,6 +7,8 @@ MSCH-G 424 2024
 
 A1 projects - character design
 
+Sketchbook 1 - character artstyle
+
 Sketchbook 2 - 5 Self portraits
 
 Sketchbook 3 - DemonsCreature
