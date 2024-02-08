@@ -6,6 +6,7 @@ MSCH-G 424 2024
 Assignments for IU bloomington MSCH-G 4240 Course.
 
 
+
 A1 projects - character design
 
 Sketchbook 2 - 5 Self portraits
