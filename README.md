@@ -3,6 +3,7 @@
 covers the concept art phase in most digital media production demostantings techniques on how to quickly convey a visual ideas such as Characters, costumes, environments, props, lighting schemes, user interfaces. Coursework was done quickly and has undergone significant revisions following initial prompts, instructor and peer feedback.
 
 
+
 ### A1 projects - Character Sheet
 
 rendering and formatting your character sheet
