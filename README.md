@@ -5,7 +5,8 @@ MSCH-G 424 2024
 ## Description
 **Assignments for IU bloomington MSCH-G 4240 Course.**
 
-A1 projects - character design
+A1 projects - character sheet
+              create a 
 
 Sketchbook 1 - character artstyle
 
