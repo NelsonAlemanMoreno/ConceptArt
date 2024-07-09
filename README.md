@@ -1,11 +1,13 @@
-# Concept Art work
-MSCH-G 424 2024
+# Concept Art [MSCH-G 424]  
+## Coursework for IU Bloomington concept art for digital media in the fall 2024. Instructed by Autumn Almeida
 
 
-## Description
-**Assignments for IU bloomington MSCH-G 4240 Course.**
+covers the concept art phase in most digital media production demostantings techniques on how to quickly convey a visual ideas such as Characters, costumes, environments, props, lighting schemes, user interfaces. Coursework was done quickly and has undergone significant revisions following initial prompts, instructor and peer feedback.
 
-A1 projects - character sheet
+
+### A1 projects - Character Sheet
+
+rendering and formatting your character sheet
 
 
 Sketchbook 1 - character artstyle
