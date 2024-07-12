@@ -17,7 +17,11 @@ creating 3 outfits that consists of a top bottom and accessory and then making t
 
 
 ### A4 : Hard Surface
-take a subject matter object(Weapon) and theme(Solar punk) to create hard surface design. The object must under go an interive concept process to narrow down the best design. There are four files A4.HardSurface.silo - A4.HardSurface.lineArt - A4.HardSurface.flatValue - A4.HardSurface.render which show how 12 inital designs are narrowed to 6 then 3 and to 1 final design
+take a subject matter object(Weapon) and theme(Solar punk) to create hard surface design. The object must under go an interive concept process to narrow down the best design. 1. files A4.HardSurface.silo 
+2. A4.HardSurface.lineArt 
+3. A4.HardSurface.flatValue 
+4. A4.HardSurface.render 
+which show how 12 inital designs are narrowed to 6 then 3 and to 1 final design
 
 ### A5: Material Studies
 Generate many different materials on different shapes using any techniques for approaching the surface. each file display one shape with different materials 
