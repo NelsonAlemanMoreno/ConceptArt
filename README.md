@@ -17,7 +17,8 @@ creating 3 outfits that consists of a top bottom and accessory and then making t
 
 
 ### A4 : Hard Surface
-take a subject matter object(Weapon) and theme(Solar punk) to create hard surface design. The object must under go an interive concept process to narrow down the best design. 1. files A4.HardSurface.silo 
+take a subject matter object(Weapon) and theme(Solar punk) to create hard surface design. The object must under go an interive concept process to narrow down the best design. 
+1. A4.HardSurface.silo 
 2. A4.HardSurface.lineArt 
 3. A4.HardSurface.flatValue 
 4. A4.HardSurface.render 
