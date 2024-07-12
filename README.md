@@ -21,7 +21,8 @@ take a subject matter object(Weapon) and theme(Solar punk) to create hard surfac
 1. A4.HardSurface.silo 
 2. A4.HardSurface.lineArt 
 3. A4.HardSurface.flatValue 
-4. A4.HardSurface.render 
+4. A4.HardSurface.render
+
 which show how 12 inital designs are narrowed to 6 then 3 and to 1 final design
 
 ### A5: Material Studies
