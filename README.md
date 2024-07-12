@@ -21,15 +21,15 @@ take a subject matter object(Weapon) and theme(Solar punk) to create hard surfac
 
 ### A5: Material Studies
 Generate many different materials on different shapes using any techniques for approaching the surface. each file display one shape with different materials 
-```
+'''
 A5.material.circle - spheres[Skin (Dark Blue), Oak(Raw), Old Leather, White Denim, Beard Hair, Tea, Blonde Hair, Orange (Fruit)]
-```
-```
+'''
+'''
 A5.material.cube - cube[Translucent Red Plastic, Wood(Panels), Mossy Rock, Skin (Light Yellow), Green Beer Glass, Crystal Ball, Grecian Marble]
-```
-```
+'''
+'''
 A5.material.cylender - [Rust, Scratched Plastic, Circuitry, Popsicle, Worn Battered Copper]
-```
+'''
 
 
 Students will create
