@@ -9,7 +9,12 @@ rendering and formatting a character sheet with the character in neutral pose wi
 
 
 ### A2: Anatomy
-render a series of anatomical studies on a sliding scale of stylization of the head, hands and body. There are 3 files consisting of aforementioned body parts A2: AnatomyB-(body), A2: AnatomyF-(hands), A2: AnatomyH-(head). Each file uses different reference images to detail 3 different levels of stylization realistic, semi stylized, fullly stylized. 
+render a series of anatomical studies on a sliding scale of stylization of the head, hands and body. There are 3 files consisting of aforementioned body parts 
+* A2: AnatomyB - body
+* A2: AnatomyF - hands 
+* A2: AnatomyH - head
+
+Each file uses different reference images to detail 3 different levels of stylization realistic, semi stylized, fullly stylized. 
 
 
 ### A3: Fashion/Cloth
@@ -23,7 +28,8 @@ take a subject matter object(Weapon) and theme(Solar punk) to create hard surfac
 3. A4.HardSurface.flatValue 
 4. A4.HardSurface.render
 
-which show how 12 inital designs are narrowed to 6 then 3 and to 1 final design
+these files are ordered in progression which show how 12 inital designs are narrowed to 6 then 3 and to 1 final design
+
 
 ### A5: Material Studies
 Generate many different materials on different shapes using any techniques for approaching the surface. each file display one shape with different materials 
