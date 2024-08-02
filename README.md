@@ -68,14 +68,39 @@ takes environments (hollow Knight) to make thumbnails that can be turned into ki
 
 
 ## Sketchbooks
+each sketchbook is made of 5 images of a single concept taking about an 1 hour. 
 
-Sketchbook 1 - character artstyle
+Sketchbook 1 - character artstyle (Thomas the train - arcane, pixar, Edward Gorey, Night in the woods, jojo bizzare advanture)
 
-Sketchbook 2 - 5 Self portraits
+Sketchbook 2 - Self portraits (jojo bizzare advanture, pepe the frog, anime, Dairy of a wimpy kid, chibi)
 
-Sketchbook 3 - DemonsCreature
+Sketchbook 3 - DemonsCreatures (bone, goblin, goo, gargoyle, wendigo)
 
-Sketchbook 4 - Signage
+Sketchbook 4 - Signage (Wooded storefront signs)
+
+Sketchbook 5 - facial expresstions (ponder, sad, ahh, mad, happy)
+
+Sketchbook 6 - Evolution (Bridge deterioration over time)
+
+Sketchbook 7 - Tavern Npcs (child, bar keep, waitress, bard, partron)
+
+Sketchbook 8 - Visual effects (divine buff, red strike, dark slash, power up, shock)
+
+Sketchbook 9 - Cursed objects (bug glasses, eye pop fidget toy, zombie teddy bear, mouth mug, tongue eraser)
+
+Sketchbook 10 - space ships (fast flyer, fighter jet, stealth flyer, cargo ship, titanic ship)
+
+Sketchbook 11 - Style studies (alice cullen - scott pillgrim, pixar, miss koboashi, regular show, simsons)
+
+Sketchbook 12 - Biome (fungus - shrub, bush, Vine, tree, Bush)
+
+Sketchbook 13 - Scene composition (Attack on titan wall - above, side, close up, mid shot, wide shot)
+
+Sketchbook 14 - Store front (weapon, strip mall, food, 711, pastry)
+
+Sketchbook 15 - animal sidekicks (pascal, timon, jiminy cricket, Meeko, heyhey)
+
+Sketchbook 16 - food (fried chicken, pizza, meatballs, apple, hotdog)
 
 
 ## resources
