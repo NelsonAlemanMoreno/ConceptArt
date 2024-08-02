@@ -5,7 +5,7 @@ covers the concept art phase in most digital media production demostantings tech
 
 
 ### A1 projects - Character Sheet
-Rendering and formatting a character sheet with the character in neutral pose with a weapon and Shield. Text describing each of these elements on how they relate to the character and to personal artistic skill 
+Rendering and formatting a character sheet with the character in neutral pose with a weapon and Shield. Text describing each of these elements on how they relate to the character and to personal artistic skill. done to demo inital art potental and capabilites
 
 
 ### A2: Anatomy
@@ -18,11 +18,11 @@ Each file uses different reference images to detail 3 different levels of styliz
 
 
 ### A3: Fashion/Cloth
-Create 3 outfits that consists of a top bottom and accessory and then making three different iterations upon that outfit in total creating 4 outfits. use different materials, lengths, and color
+Create 3 outfits that consists of a top bottom and accessory and then making three different iterations upon that outfit in total creating 4 outfits. use different materials, lengths, and color. interive intense
 
 
 ### A4 : Hard Surface
-Take a subject matter object(Weapon) and theme(Solar punk) to create hard surface design. The object must under go an interive concept process to narrow down the best design. 
+Take a subject matter object(Weapon) and theme(Solar punk) to create hard surface design. interive concept process allowed to narrow down the best design progression follows siloettes - line art - falt values - full render. 
 1. A4.HardSurface.silo 
 2. A4.HardSurface.lineArt 
 3. A4.HardSurface.flatValue 
@@ -39,13 +39,35 @@ Generate many different materials on different shapes using any techniques for a
 
 
 ### A6: TBD Group Project
-Develop a mascot that will compliment/contrast a character that a partner creates. This render must share qualities that display about 80% angelic/ 20% demonic with a victorian aesthetic.
+Develop a mascot that will compliment/contrast a character that a partner creates. Render shares qualities that are 80% angelic/ 20% demonic with a victorian aesthetic.
 
 
 ### A7: Environment
-Concepting an environments by partially painting and kitbashing.
+Concepting an environments by partially painting and kitbashing. Kitbashing is the combonation of various photos to create a single image. Preperation for the project involved creating thumbnails or low fidelity sketches 
+*A7.EnvironFantasy.thumbNails.png
+*A7.EnvironFantasy.render.png
+*A7.EnvironmentConcepts.ThumbNails.png
+*A7.EnvironmentConcepts.RENDER.png
+
+project is split in two parts. A fansaty environment(Dwarven highlands) and environmental reference. leading to the rendered projects serveral thumbnails were made.
 
 
+### A8: Final Project
+Create a character sence with two different IP's (hollow knight & Bloodborne) combines multiple skills of the course
+
+*A8.FinalProject.siloss.png
+*A8.FinalProject.Character.png
+
+These files are concepting idea for the character (Bloodborne) such as weapon, gender, and positioning
+
+*A8.FinalProject.env.png
+
+takes environments (hollow Knight) to make thumbnails that can be turned into kitbashed photos
+
+*A8.FinalProject.comp.png
+
+
+##Sketchbooks
 
 Sketchbook 1 - character artstyle
 
