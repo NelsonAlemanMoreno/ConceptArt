@@ -44,10 +44,10 @@ Develop a mascot that will compliment/contrast a character that a partner create
 
 ### A7: Environment
 Concepting an environments by partially painting and kitbashing. Kitbashing is the combonation of various photos to create a single image. Preperation for the project involved creating thumbnails or low fidelity sketches 
-*A7.EnvironFantasy.thumbNails.png
-*A7.EnvironFantasy.render.png
-*A7.EnvironmentConcepts.ThumbNails.png
-*A7.EnvironmentConcepts.RENDER.png
+* A7.EnvironFantasy.thumbNails.png
+* A7.EnvironFantasy.render.png
+* A7.EnvironmentConcepts.ThumbNails.png
+* A7.EnvironmentConcepts.RENDER.png
 
 project is split in two parts. A fansaty environment(Dwarven highlands) and environmental reference. leading to the rendered projects serveral thumbnails were made.
 
@@ -55,19 +55,19 @@ project is split in two parts. A fansaty environment(Dwarven highlands) and envi
 ### A8: Final Project
 Create a character sence with two different IP's (hollow knight & Bloodborne) combines multiple skills of the course
 
-*A8.FinalProject.siloss.png
-*A8.FinalProject.Character.png
+* A8.FinalProject.siloss.png
+* A8.FinalProject.Character.png
 
 These files are concepting idea for the character (Bloodborne) such as weapon, gender, and positioning
 
-*A8.FinalProject.env.png
+* A8.FinalProject.env.png
 
 takes environments (hollow Knight) to make thumbnails that can be turned into kitbashed photos
 
-*A8.FinalProject.comp.png
+* A8.FinalProject.comp.png
 
 
-##Sketchbooks
+## Sketchbooks
 
 Sketchbook 1 - character artstyle
 
